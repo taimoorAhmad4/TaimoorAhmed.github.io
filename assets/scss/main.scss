@@ -1,0 +1,21 @@
+.abouaboutsection{
+    .innerblackbox{
+        .socials{
+            a{
+                color: rgb(182, 182, 182);
+                &::after{
+                    content: '';
+                    display: block;
+                    width: 0px;
+                    height: 2px;
+                    background: #fff;
+                    transition: width .3s;
+                    color: white;
+                  }
+                &:hover::after{
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

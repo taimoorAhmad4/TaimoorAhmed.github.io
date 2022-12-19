@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="home2" transform="translate(-63 -63)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="19" cy="19" r="19" transform="translate(64 64)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_1" data-name="Path 1" d="M173.844,166.773l-1.329-1.222a1.08,1.08,0,0,0-1.461,0l-8.294,7.629a1.08,1.08,0,0,0,.731,1.874h1.34v7.311a1.08,1.08,0,0,0,1.08,1.08h2.852a1.083,1.083,0,0,0,1.083-1.083V178.5a.969.969,0,0,1,.969-.969h1.942a.968.968,0,0,1,.968.968v3.854a1.083,1.083,0,0,0,1.083,1.083h2.853a1.08,1.08,0,0,0,1.079-1.075v-7.311h1.34a1.08,1.08,0,0,0,.731-1.874l-2.553-2.348" transform="translate(-88.556 -91.124)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="0.801" cy="0.801" r="0.801" transform="translate(86.741 76.915)"/>
+  </g>
+</svg>
